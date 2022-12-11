@@ -1,0 +1,25 @@
+{
+  "name": "@zks/discordjs-remaster",
+  "version": "0.0.1",
+  "description": "DiscordJS API Remastered by ZKS",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZKSCSharp/-zks-discord-remaster.git"
+  },
+  "keywords": [
+    "DiscordJS"
+  ],
+  "author": "ZKS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZKSCSharp/-zks-discord-remaster/issues"
+  },
+  "homepage": "https://github.com/ZKSCSharp/-zks-discord-remaster#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
